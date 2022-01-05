@@ -4,5 +4,5 @@
 
 layout: home
 title: Andrej's Homepage
-permalink: /home/
+permalink: /docs/home/
 ---
