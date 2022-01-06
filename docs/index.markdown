@@ -6,5 +6,6 @@ layout: home
 title: Andrej's Homepage
 permalink: /docs/home/
 ---
+<link rel="stylesheet" type="text/css" href="https://ae20cg.github.io/assets/css/style.scss">
 
 <h2> Andrej Erkelens </h2>
