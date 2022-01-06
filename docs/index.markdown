@@ -4,7 +4,7 @@
 
 layout: home
 title: Andrej's Homepage
-permalink: /docs/home/
+#permalink: /docs/home/
 ---
 <link rel="stylesheet" type="text/css" href="https://ae20cg.github.io/docs/assets/css/style.scss">
 
